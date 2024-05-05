@@ -1,6 +1,6 @@
 # Django_You-Tube_video_Summary
 An automatic YouTube transcript summarizer is a tool that generates a summary of  the content in a YouTube video by analyzing the transcript of the video's.
-# Django_Youtubevideo_Summary
+
 Implemented YouTube Data API integration to fetch video details, including metadata, captions, and transcripts, enabling efficient data retrieval for summarization using Django.
 
 ## Installing
@@ -46,8 +46,6 @@ Home Page:
 <img width="1440" alt="Screenshot 2023-05-27 at 2 23 34 PM" src="https://github.com/Ajyrajput-2811/Django_Youtubevideo_Summary/assets/119350384/61838e2d-cbab-4b3e-8373-d06b3853c9ef">
 
 Summary Page:
-<img width="1440" alt="Screenshot 2023-05-27 at 2 23 25 PM" src="https://github.com/Ajyrajput-2811/Django_Youtubevideo_Summary/assets/119350384/681a9e71-2144-4041-af9d-f19af07fe28f">
-
 <img width="1440" alt="Screenshot 2023-05-27 at 2 27 27 PM" src="https://github.com/Ajyrajput-2811/Django_Youtubevideo_Summary/assets/119350384/1cecd510-212a-463d-94af-ab50695aa4b0">
 
 Admin Page:
